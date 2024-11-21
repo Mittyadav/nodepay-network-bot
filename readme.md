@@ -15,7 +15,7 @@ This script automates network or node operations for Nodepay Network.
 
 1. Clone the repository to your local machine:
    ```bash
-	git clone https://github.com/recitativonika/nodepay-network-bot.git
+	git clone https://github.com/Mittyadav/nodepay-network-bot.git
    ```
 2. Navigate to the project directory:
 	```bash
@@ -27,7 +27,7 @@ This script automates network or node operations for Nodepay Network.
 	```
 
 ## Usage
-1. Register nodepay account first, if you dont have you can register [here](https://app.nodepay.ai/register?ref=LrCeinXqThMs9tb), I recomended to `download extension`, `activate your account`, complete the `Proof of Humanhood` and `connect your wallet` first before running the script because this important for `Nodepay TGE`.
+1. Register nodepay account first, if you dont have you can register [here](https://app.nodepay.ai/register?ref=), I recomended to `download extension`, `activate your account`, complete the `Proof of Humanhood` and `connect your wallet` first before running the script because this important for `Nodepay TGE`.
 2. Set and Modify `user.txt` before running the script. Below how to setup this file, put your np_token in the text file, example below:
 	```
 	eyJhbGcixxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -72,4 +72,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 This script only for testing purpose, using this script might violates ToS and may get your account permanently banned.
 
 My reff code if you want to use :) : 
-https://app.nodepay.ai/register?ref=LrCeinXqThMs9tb
+https://app.nodepay.ai/register?ref=
