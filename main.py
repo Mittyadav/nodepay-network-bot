@@ -4,7 +4,7 @@ import asyncio
 import time
 import cloudscraper
 import logging
-from InquirerPy import inquirer
+from inquirerPy import inquirer
 from colorama import Fore, Style, init
 
 show_errors = True
