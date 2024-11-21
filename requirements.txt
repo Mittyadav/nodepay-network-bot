@@ -2,5 +2,5 @@ aiohttp
 asyncio
 cloudscraper
 colorama
-InquirerPy
+inquirerPy
 nest_asyncio
