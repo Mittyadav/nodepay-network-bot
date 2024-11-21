@@ -4,4 +4,3 @@ cloudscraper
 colorama
 InquirerPy
 nest_asyncio
-inquirer
