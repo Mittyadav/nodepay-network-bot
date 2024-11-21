@@ -2,5 +2,4 @@ aiohttp
 asyncio
 cloudscraper
 colorama
-inquirerPy
 nest_asyncio
